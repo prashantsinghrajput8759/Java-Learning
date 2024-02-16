@@ -33,3 +33,5 @@ build/
 .vscode/
 
 git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+
+resources
